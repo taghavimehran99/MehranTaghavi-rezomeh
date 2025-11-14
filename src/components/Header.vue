@@ -1,5 +1,4 @@
 <script setup></script>
-
 <template>
   <div>
     <img class="hero-picture" src="@/assets/img/image.png" alt="my-pictuer-rezomeh" />
@@ -9,15 +8,10 @@
     <h1 class="name-titiel">Taghavi</h1>
   </div>
 </template>
-
 <style scoped>
 .hero-picture {
   width: 200px;
   border-radius: 100px;
-}
-
-.my-name{
-    
 }
 
 .name-titiel{
