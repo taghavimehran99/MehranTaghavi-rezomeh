@@ -1,3 +1,6 @@
+// import 'modern-normalize/modern-normalize.css'
+import './assets/rest.css'
+
 import './assets/main.css'
 
 import { createApp } from 'vue'
